@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Masakari (Warhawk)" model="C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0f80609c-be36-4c81-aef6-af837c5a41d9">
+			<pilot size="1" name="Ferit" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="5" externalId="62c10ad8-6cf7-47c5-943c-1fbc690e19f9" ejected="false" autoeject="false"/>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="085194f8-3e45-4ac1-bc9c-aad0bd54ada5">
+			<pilot size="1" name="Versie" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="6f746a57-afe0-4e8b-8d0c-051a2d95a2f2" ejected="false" autoeject="false"/>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="81193c07-589c-44d5-9c89-922670983005">
+			<pilot size="1" name="Darbha" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="4c80951f-e495-47bd-a958-ae15fe9a0665" ejected="false" autoeject="false"/>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7dfe6906-601d-4385-a609-e66d58b286eb">
+			<pilot size="1" name="Olympia" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="a905505f-9294-4147-ace7-d5d849e7bd45" ejected="false" autoeject="false"/>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2b3d8af9-f511-4f0e-8560-e9af02d95c15">
+			<pilot size="1" name="Laire" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="0cc0dcdb-40b1-425b-9015-dc326f1d1237" ejected="false" autoeject="false"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="985c2deb-0cd1-46ee-9800-e2734f12ba4c">
+			<pilot size="5" name="Paskar" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="4" externalId="2c775c58-0c9a-4893-9b0c-323e5ade0d5c" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="1"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dc6760d9-b663-40cf-a01f-b033a30efdbd">
+			<pilot size="5" name="Regina" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="4" externalId="4deca26e-e88f-4576-a4e3-e4f60fe77c3e" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="2"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3e7abe35-7cb5-449c-ac6a-7855e4706a7b">
+			<pilot size="5" name="Paula" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="4" externalId="492775bf-315c-4940-b994-7f9b18cbe0b4" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="3"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a28f879f-6a62-4827-af19-e892da98e4a0">
+			<pilot size="5" name="Vidian" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="4" externalId="77931bf7-c588-4051-af6b-eec859336d14" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="4"/>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d460fe55-9453-4542-9ebc-db582cf5c1da">
+			<pilot size="5" name="Mark" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="4" externalId="015380f0-cf89-4add-98ab-3786cfcd8ba9" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="5"/>
+			<Game id="10"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Hussar" model="HSR-200-D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="89cc68bd-a168-47b9-b5cc-60717a0abe66">
+			<pilot size="1" name="Jina Nangila" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="84f339d6-4e0c-46bc-acfb-e797686b740c" ejected="false" autoeject="true"/>
+			<Game id="39"/>
+		</entity>
+
+		<entity chassis="Cicada" model="CDA-3F" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a8013fef-a5a7-4d18-9bcc-79da6d9cd8e8">
+			<pilot size="1" name="Fiona Thomas" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="a59a9e5d-f985-449d-80ca-1560acdce456" ejected="false" autoeject="true"/>
+			<Game id="40"/>
+		</entity>
+
+		<entity chassis="Blackjack" model="BJ-3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3664abe3-4bb4-459a-85aa-4d6750e36d9b">
+			<pilot size="1" name="Mita Mangalwadi" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="179b690e-556c-43df-879b-c2c2c1b19b7f" ejected="false" autoeject="true"/>
+			<Game id="41"/>
+		</entity>
+
+		<entity chassis="Hatchetman" model="HCT-5S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4c20bb0d-7fcc-4261-8972-d922136acfd7">
+			<pilot size="1" name="Ambo Hamal" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="b0f07f1c-b31c-483c-a3ac-2261497fa263" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="11" type="IS LB 10-X Cluster Ammo" shots="10"/>
+			</location>
+			<Game id="42"/>
+		</entity>
+
+		<entity chassis="Yeoman" model="YMN-6Y" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="519ddf92-0814-4c80-b0dc-c7d6fab887f6">
+			<pilot size="1" name="Lu Zhuan" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="f7d074cc-d0b2-4fa2-9a17-50dc6bc356df" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="11" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="7" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="8" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="43"/>
+		</entity>
+
+		<entity chassis="Champion" model="CHP-1N2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="964af738-8bed-4fe2-8074-2d4421de4eef">
+			<pilot size="1" name="Brett Leshtchenko" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="5dc76387-7019-4ab5-a580-2c1f21587fd1" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="IS LB 10-X AC Ammo" shots="10"/>
+				<slot index="8" type="IS LB 10-X Cluster Ammo" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo SRM-6 Artemis-capable" shots="15"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="44"/>
+		</entity>
+
+		<entity chassis="Charger" model="CGR-1A5" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="d1f656ac-a929-4652-825f-04e471a91e02">
+			<pilot size="1" name="Joan Hasni" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="cee82dd5-f418-4ac4-94bb-a28e6596da4d" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="7" type="IS Ammo AC/20" shots="5"/>
+				<slot index="8" type="IS Ammo AC/20" shots="5"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="45"/>
+		</entity>
+
+		<entity chassis="Albatross" model="ALB-3U" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fdb4b6a3-12b3-47fc-93b6-41f592ba89a2">
+			<pilot size="1" name="Zalika Hadda" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="dfa07dd4-5fa2-43b1-8978-ead29897ca30" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="11" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS LB 10-X AC Ammo" shots="10"/>
+				<slot index="7" type="IS LB 10-X Cluster Ammo" shots="10"/>
+			</location>
+			<Game id="46"/>
+		</entity>
+
+</unit>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Locust" model="LCT-3S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1b972863-9684-4cde-826b-dd25d73557c5">
+			<pilot size="1" name="Sheila Xú" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="8e899494-9fa0-470e-a2a6-12f4aa180155" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="47"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f6e6b277-8cd6-4dfc-917c-181da00efa5f">
+			<pilot size="1" name="Hana Park" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="d9350a62-0029-4dad-aedb-281d7d15c2c5" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="48"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="245770f4-5819-45d6-b624-df64a843a115">
+			<pilot size="1" name="Jambunathan Medina" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="02cf630b-ad93-48cf-b2b8-8cb56e82c50c" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="49"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ad05d57a-d1f1-4815-bbc7-4695b8c57a0e">
+			<pilot size="1" name="Chito Fernandez" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="16e67cca-dd1b-4aa3-b8b7-84aa55a3f60e" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="ISAMS Ammo" shots="12"/>
+			</location>
+			<Game id="50"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ecb0b8f0-38ca-4d9e-a192-61b0766f379c">
+			<pilot size="1" name="Lucianna Sgattoni" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="f8a11810-557f-46e5-a9a2-ce1c0310c173" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="ISAMS Ammo" shots="12"/>
+			</location>
+			<Game id="51"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b886fb2c-09b0-4664-861c-68d8ecae4dde">
+			<pilot size="1" name="Yachi Fukushima" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="72dc3b0a-6fc3-4033-84a3-bc79a2e5f972" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="ISAMS Ammo" shots="12"/>
+			</location>
+			<Game id="52"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4ca35e75-d711-4148-8de3-f6ed267dfc6b">
+			<pilot size="1" name="Gérard Jung" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="e9702a34-8827-4180-b685-787aef7597d3" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="53"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9e59c2f8-f3eb-43b9-9541-ac14ca82905a">
+			<pilot size="1" name="Connie Xú" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="46823c3a-3ddd-445c-95b1-be0946ed65e4" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="54"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e9fd7635-4e41-4875-86e1-1147c8ad2169">
+			<pilot size="1" name="Michael Krejcov" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="0f949cff-9831-47ef-9a19-7ef00eed8664" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="55"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3f5bab6d-a104-4e8e-a656-d394fab0f52d">
+			<pilot size="1" name="Carol Lucetti" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="6be02cf2-166e-4f2d-9f3c-0d036f8511b4" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="56"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="566b4356-5888-4439-abc7-c1297e75ae2b">
+			<pilot size="1" name="Raicheal Simcock" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="3" externalId="0c5172b2-8358-46a8-bfcc-e48244da313c" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="57"/>
+		</entity>
+
+		<entity chassis="Locust" model="LCT-3V" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f4924f1e-3ce1-4c09-9b90-c762b2c70e04">
+			<pilot size="1" name="Donahue Rose" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="3" externalId="0d16f5b3-cf31-4eab-81cf-19f35a56728e" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="58"/>
+		</entity>
+
+</unit>

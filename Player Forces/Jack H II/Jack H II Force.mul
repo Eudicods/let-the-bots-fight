@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Annihilator" model="ANH-2A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="01622f41-9b3c-4c43-bd22-82b4a5fb563a">
+			<pilot size="1" name="Kai Corrales" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" externalId="47baa917-4a7c-4d58-9773-847717d102f9" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
+				<slot index="10" type="IS LB 10-X AC Ammo" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
+				<slot index="10" type="IS LB 10-X AC Ammo" shots="10"/>
+			</location>
+			<Game id="36"/>
+		</entity>
+
+		<entity chassis="Awesome" model="AWS-9Q" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f78562e8-162e-47d9-b150-ac9f04c47b4b">
+			<pilot size="1" name="Michael bin Fath" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" externalId="41ff0d65-54f4-41ac-9839-564624b5a471" ejected="false" autoeject="true"/>
+			<Game id="37"/>
+		</entity>
+
+		<entity chassis="Daishi (Dire Wolf)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0ff8c13d-e8d6-40cf-816d-7630c2088cfe">
+			<pilot size="1" name="Dwayne" nick="" gender="MALE" clanperson="true" gunnery="2" piloting="4" externalId="7c468960-df69-493d-ace4-d17a4da287e2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="10" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="11" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="12" type="Clan Machine Gun Ammo - Full" shots="200"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="12" type="Clan Streak SRM 4 Ammo" shots="25"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="12" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+			</location>
+			<Game id="38"/>
+		</entity>
+
+</unit>

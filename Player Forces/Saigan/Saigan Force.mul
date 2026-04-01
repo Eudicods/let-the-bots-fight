@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9f591526-dc62-4efc-b697-e7750b1b1063">
+			<pilot size="1" name="Tom Nguyen-Dinh" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="c5c2ec84-8292-4ddb-b058-09b5e763d6bb" ejected="false" autoeject="true"/>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="642be769-2038-4a52-b2d1-2a3333394cd9">
+			<pilot size="1" name="Ruth Abrams" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="46620652-e22b-47a0-86de-2a3ce4ff2441" ejected="false" autoeject="true"/>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3f42fafd-c30e-4454-8a56-3a8618d5cf8f">
+			<pilot size="1" name="Sheila Komját" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="7dfcb405-2565-4a14-9bc1-dac67a82b9e3" ejected="false" autoeject="true"/>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a453ca04-eea9-4544-8f5e-37ce5c32662a">
+			<pilot size="1" name="Sastia Torres" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="4" externalId="39e03f8b-6d6f-46d4-a493-d806bba456a7" ejected="false" autoeject="true"/>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e4ff68e9-b3af-4b39-a480-4a838ff783d2">
+			<pilot size="1" name="Faradur Amir" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="f6dfca3a-b5c5-45d5-a192-cfdd88d5078f" ejected="false" autoeject="true"/>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="216f70e4-7004-426f-aab5-c1a6babfcc45">
+			<pilot size="1" name="Gabek Nguyen-Khoa" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="45448c8b-5093-40c9-a6f4-ab725c78e559" ejected="false" autoeject="true"/>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e96ad7d4-2b6e-47fd-80b0-f2b7534c869c">
+			<pilot size="1" name="Gaira Woombill" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="839e072c-7869-46b7-877e-4abfe5102161" ejected="false" autoeject="true"/>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Hunchback" model="HBK-4P" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f2153ef6-fd39-4a80-bd79-e8186c92b63f">
+			<pilot size="1" name="Kailahi Lima" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="cc27647d-4100-4029-83a3-cf44c73792f2" ejected="false" autoeject="true"/>
+			<Game id="19"/>
+		</entity>
+
+</unit>

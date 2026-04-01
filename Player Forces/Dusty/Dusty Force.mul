@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Cauldron-Born (Ebon Jaguar)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="eb7c375f-6a5e-41c8-a6c7-df9c22765442">
+			<pilot size="1" name="Messalina" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="4" externalId="04794afc-1931-47fe-8253-c96333a717d2" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="Clan Ammo SRM-2" shots="50"/>
+				<slot index="5" type="Clan Gauss Ammo" shots="8"/>
+				<slot index="6" type="Clan Gauss Ammo" shots="8"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="5" type="Clan Ammo LRM-10" shots="12"/>
+				<slot index="6" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="7" type="Clan LB 5-X AC Ammo" shots="20"/>
+				<slot index="8" type="Clan LB 5-X Cluster Ammo" shots="20"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Ryoken (Stormcrow)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f068271f-6e4f-4171-b5f1-b78dd2c179ac">
+			<pilot size="1" name="Cam-Hong" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="db4e232f-6ea6-4b7c-a9a0-afe967d56d92" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="Clan Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="5" type="Clan Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="9" type="Clan Ammo LRM-20" shots="6"/>
+				<slot index="10" type="Clan Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Archer" model="ARC-2Rb" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a2adbdcf-02d9-47d0-bd86-7040de70e49e">
+			<pilot size="1" name="Margit Valstad" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="3152e21e-861e-43de-b977-6e969deac133" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="7" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="8" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				<slot index="9" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Fenris (Ice Ferret)" model="D" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="b01cffae-7fb6-408f-84c9-90d908a64f20">
+			<pilot size="1" name="Lauro" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="c28a9fa6-6149-46af-8268-e57a37065db7" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="5"> Left Arm
+				<slot index="7" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c4fc2097-3acb-47a8-9e2d-9a27057ff0c2">
+			<pilot size="1" name="Wilson" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="e5fff168-a637-485e-94f2-49d7a2d5861c" ejected="false" autoeject="false"/>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e847c789-f5d8-4b2f-b6ab-d2ae2afe5928">
+			<pilot size="5" name="Piper" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="4" externalId="d01a23fa-ff31-40c2-b323-db76eb0e5a67" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="15"/>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="6" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fd81735f-d8e3-40fa-a2c9-0e61045c2f8b">
+			<pilot size="5" name="Maria" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="4" externalId="25402507-cc46-45a8-be2a-33688adbdab9" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="16"/>
+			<Game id="18"/>
+		</entity>
+
+</unit>

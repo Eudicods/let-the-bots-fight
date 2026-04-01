@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Oro Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ba4dae07-e9db-4362-ac9e-0c7bd5654ddc">
+			<pilot size="4" name="Aaron" nick="" gender="MALE" clanperson="true" gunnery="3" piloting="5" externalId="29ba3ab3-b654-4bd0-9f4c-dff13dfdaefb" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="2" type="Clan LB 20-X AC Ammo" shots="5"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Oro Heavy Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="40d1d685-5799-4eb7-baa6-e450746f0f1a">
+			<pilot size="4" name="Firdaus" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="5" externalId="d6be6d07-56e3-41c8-bcd3-af9721ebd291" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="2" type="Clan LB 20-X AC Ammo" shots="5"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Warhammer IIC" model="" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="10b90423-607f-48fb-a0be-732bcd2c7eae">
+			<pilot size="1" name="Paul" nick="" gender="MALE" clanperson="true" gunnery="2" piloting="4" externalId="2fe1432a-436c-49b8-97b7-5c1631d611da" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="8" type="Clan Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Ursus" model="" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="27703021-baa9-4670-a4dc-877ee81c89ae">
+			<pilot size="1" name="Tiberia" nick="" gender="FEMALE" clanperson="true" gunnery="3" piloting="5" externalId="5a3305cf-c3ba-4d5b-8e26-190a87e52117" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="8" type="Clan Ammo LRM-10" shots="12"/>
+				<slot index="9" type="Clan Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Demon Tank" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="94568160-2e58-4192-b2f8-cf37939d98a6">
+			<pilot size="4" name="Egiodeo Orioli" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="13f72f61-bc61-47eb-a45a-dd52a17861c7" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="3" type="IS Gauss Ammo" shots="8"/>
+				<slot index="4" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Clan Jump Point" model="(Rifle)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a9616494-05ae-4af9-afa4-8212a170071a" armorDivisor="2.0">
+			<pilot size="1" name="Kazuma" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="8b78aaec-30cd-47cd-a7de-2b5fb7a4a48d" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+</unit>

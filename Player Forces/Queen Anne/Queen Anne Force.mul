@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Rhino Fire Support Tank" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="37d91aec-f326-41e6-acbe-2b063f2fa4bd">
+			<pilot size="6" name="Kwee-Ping Yang" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="3ed9b183-db75-4ff7-9ba9-44e6b6527c35" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="2" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="3" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="4" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="64"/>
+		</entity>
+
+		<entity chassis="Alacorn Heavy Tank" model="Mk VI" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="38820fee-2a70-4017-b1ea-69f1f8616b61">
+			<pilot size="7" name="Kuan-Ju Tien" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="5a8d75b2-1ebe-465a-ba97-ca350235a66b" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Gauss Ammo" shots="8"/>
+				<slot index="2" type="IS Gauss Ammo" shots="8"/>
+				<slot index="3" type="IS Gauss Ammo" shots="8"/>
+				<slot index="4" type="IS Gauss Ammo" shots="8"/>
+				<slot index="5" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="59"/>
+		</entity>
+
+		<entity chassis="Demolisher Heavy Tank" model="(Gauss)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a67de257-1061-4f8c-b1b0-1429e965246e">
+			<pilot size="6" name="Otto Engenes" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="c44cf4a3-87c3-4a81-9beb-71e26d81f34d" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Gauss Ammo" shots="8"/>
+				<slot index="2" type="IS Gauss Ammo" shots="8"/>
+				<slot index="3" type="IS Gauss Ammo" shots="8"/>
+				<slot index="4" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="60"/>
+		</entity>
+
+		<entity chassis="Demon Tank" model="(Royal)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="80c0693d-5242-4217-a6e5-99f0e1e821ff">
+			<pilot size="4" name="Deaglán Miller" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="39ec7cf5-42fa-4947-854e-692883e6cece" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="2" type="IS Streak SRM 2 Ammo" shots="50"/>
+				<slot index="3" type="IS Gauss Ammo" shots="8"/>
+				<slot index="4" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="61"/>
+		</entity>
+
+		<entity chassis="Schrek PPC Carrier" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="00dbf6ef-1569-4ef0-85bf-8dbb644546a8">
+			<pilot size="6" name="Lakshya Pichon" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="ffe5f2b1-3c6e-4071-81fd-eeeda98a3175" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="62"/>
+		</entity>
+
+		<entity chassis="Brutus Assault Tank" model="(PPC)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fa6eb96c-7b04-4621-b526-cd6611011c37">
+			<pilot size="5" name="Shannon Ebner" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="34978052-3503-4fc3-aafd-355b958691dc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="63"/>
+		</entity>
+
+</unit>

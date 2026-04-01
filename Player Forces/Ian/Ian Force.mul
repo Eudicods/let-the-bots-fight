@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9aac4d05-42dc-4139-9248-d5e51151278b">
+			<pilot size="1" name="Bettie Bracegirdle" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="b0562e64-caca-4144-b1be-c14c361c2842" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ceb35b73-dbc5-44a7-8980-2471727cff28">
+			<pilot size="1" name="Ameer Ibrahim" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="22fd68f7-f6b0-4f96-a154-742c20c24b0d" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="17"/>
+		</entity>
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a84b02e4-645d-41cc-9d52-8eb2b257d9ea">
+			<pilot size="1" name="Anthony Eile" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="5" externalId="5a809d30-f672-44e6-a229-2663607bcc3f" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="Hollander II" model="BZK-F7" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="48a5d2e9-19dc-452a-8004-2f711d653836">
+			<pilot size="1" name="Michael Suzuki" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="3" externalId="29a84a51-4918-4315-895f-37a01d15d126" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="ISHeavyGauss Ammo" shots="4"/>
+				<slot index="2" type="ISHeavyGauss Ammo" shots="4"/>
+				<slot index="3" type="ISHeavyGauss Ammo" shots="4"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Hollander II" model="BZK-F7" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="5ee2decc-5a8b-47c2-9985-ebadf76a502d">
+			<pilot size="1" name="Edeen Bignal" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="3" externalId="3da08fc4-76f4-4357-87e3-6d7bd4a54929" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="1" type="ISHeavyGauss Ammo" shots="4"/>
+				<slot index="2" type="ISHeavyGauss Ammo" shots="4"/>
+				<slot index="3" type="ISHeavyGauss Ammo" shots="4"/>
+			</location>
+			<Game id="12"/>
+		</entity>
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f5bff2a7-8119-4d0b-b618-c1e77cfdfdcf">
+			<pilot size="1" name="Seija Mäntymaa" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="037774d6-7146-4c99-b591-a40ff37f9428" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="10d78927-c817-414e-a3b0-5ec4bfdea07a">
+			<pilot size="1" name="Cliantha Espinoza" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="e057ef7e-69cc-49a6-9a7b-8127516ab491" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Hollander" model="BZK-F3" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ebb6bab7-335f-4847-9e69-81a7c41f4477">
+			<pilot size="1" name="Mijalko Byrkjeland" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="55c1fc61-ebfe-4d3b-ba4c-6b8863e1b696" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Gauss Ammo" shots="8"/>
+				<slot index="12" type="IS Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+</unit>

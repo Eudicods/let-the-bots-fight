@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.49.19.1" >
+
+		<entity chassis="Venom" model="SDR-9K" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f7ff9b3e-339a-4d65-a845-d057d8030f34">
+			<pilot size="1" name="Cheng-gong Chen" nick="Latte" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="f1c4e335-3f82-4578-bbd9-5062bf6f6019" ejected="false" autoeject="true"/>
+			<Game id="1"/>
+			<Force force="Scout Lance|0||"/>
+		</entity>
+
+		<entity chassis="Owens" model="OW-1A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="105dd42f-eb99-4bb7-82d0-15730e58a88b" c3UUID="37a21c0d-d14b-4349-ac76-956e39b3e3c8">
+			<pilot size="1" name="Sulama Tamir" nick="Crook" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="5beec4c2-dc0b-4388-b6bf-622cd8701251" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="2"/>
+			<Force force="Scout Lance|0||"/>
+		</entity>
+
+		<entity chassis="Ostscout" model="OTT-7K" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="43020caf-ce5b-42f0-822f-a9af41bb6baf">
+			<pilot size="1" name="Sumaita bin Mustafa" nick="Sidearm" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="c7edc9ae-846f-41d2-a96c-c05b1a94cd25" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="3"/>
+			<Force force="Scout Lance|0||"/>
+		</entity>
+
+		<entity chassis="Cicada" model="CDA-3M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="ba804c1c-16e2-45ca-bae9-f0b4e4f8a487">
+			<pilot size="1" name="Carol Soler" nick="Anvil" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="70434d55-555d-4f74-8b54-f9ce4a8721c0" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Ultra AC/5 Ammo" shots="20"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="4"/>
+			<Force force="Scout Lance|0||"/>
+		</entity>
+
+		<entity chassis="Marauder" model="MAD-5M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2fddd879-a59e-44f0-bc75-61a35ef21c9d">
+			<pilot size="1" name="Gabre Yongo" nick="Snowbird" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="7565a7c7-07a2-4239-81bf-12f492a3405d" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="IS LB 10-X AC Ammo" shots="10"/>
+			</location>
+			<Game id="5"/>
+			<Force force="Heavy Lance|1||"/>
+		</entity>
+
+		<entity chassis="Avatar" model="AV1-O" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="acd38a56-eaac-4366-bd22-5057a49f83a0">
+			<pilot size="1" name="Jaimie Nairn" nick="Judge" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="993da416-e197-466e-92e7-1d6a8f2e8b21" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="8" type="IS Ammo MG - Full" shots="200"/>
+				<slot index="9" type="IS LB 10-X AC Ammo" shots="10"/>
+				<slot index="10" type="IS LB 10-X Cluster Ammo" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="8" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+				<slot index="9" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+				<slot index="10" type="IS Ammo LRM-10 Artemis-capable" shots="12"/>
+			</location>
+			<Game id="6"/>
+			<Force force="Heavy Lance|1||"/>
+		</entity>
+
+		<entity chassis="Ostsol" model="OTL-5M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7f631f07-45ea-451d-9874-ab70d485ab58">
+			<pilot size="1" name="Deepavali Naidoo" nick="Jazzman" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="9d1f8c6f-5a0f-4979-a587-87e4a54763be" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="ISAMS Ammo" shots="12"/>
+			</location>
+			<Game id="7"/>
+			<Force force="Heavy Lance|1||"/>
+		</entity>
+
+		<entity chassis="Ostroc" model="OSR-2L" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="239b3b97-0ae5-4b97-a0fa-3ea1db7923b7">
+			<pilot size="1" name="Perpetuya Upasevich" nick="Liner" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="5385fad3-3044-47f1-a9c2-8f4021ff6139" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="8"/>
+			<Force force="Heavy Lance|1||"/>
+		</entity>
+
+</unit>

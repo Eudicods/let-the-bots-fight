@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2cf94709-f836-46dc-83cc-63a9df37b5d8">
+			<pilot size="4" name="Justo Galindo" nick="" gender="MALE" clanperson="false" gunnery="2" piloting="4" externalId="89aff299-897a-4e67-afaa-06e3cf24c6fc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="19"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1f71b66c-d760-448a-84b9-ae0b30d7cdc3">
+			<pilot size="4" name="Carudarsana Kuram" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="497411f1-4702-4b94-bdba-95cd3e8b13b0" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="20"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1f68f9e3-f744-4452-852b-adac9aace232">
+			<pilot size="4" name="Carrie Deol" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="ebd43733-cdab-4d7e-aecc-c63d45cd09f9" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="21"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="81839c14-58cd-4475-9c94-0ea745830d8b">
+			<pilot size="4" name="Adrienna Olmos" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="cfb1fa6b-edb9-4942-8993-dea57690ea4f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="22"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e3ea0fc7-31f6-4b20-b2c3-9b7436c9b9d8">
+			<pilot size="4" name="Manuel Morán" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="b4845b1f-a5b4-4e9c-9532-46807d33ebbc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="23"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="67894432-7fe9-4572-8c0c-f062d934a697">
+			<pilot size="4" name="Nathan MacGachen" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="ab1b7e5a-85bc-46b7-9e3a-f7c767f294ba" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="24"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2fc5f7e1-f03d-4a91-a84a-c3f592a3b18e">
+			<pilot size="4" name="Terral Tai" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="4732a8b4-9bc9-44b4-aa9a-190253cadab0" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="25"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1b5b4220-5af9-446b-9d73-1f4910fe3b00">
+			<pilot size="4" name="Jae-Eun Nguyen" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="82dbe494-edda-4e69-aa4d-3f760c2a1ea5" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="26"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="c9d9ced9-2360-48d1-be09-0e8e971389b5">
+			<pilot size="4" name="Bhusakra Kakakhel" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="60b14c24-b7d8-42be-b9e0-66566929b932" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="27"/>
+		</entity>
+
+		<entity chassis="SRM Carrier" model="(3054 Upgrade)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="21a3080a-5897-464f-8914-af3da5612e1d">
+			<pilot size="4" name="Janneth Wotherspoon" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="fea24290-2692-4218-a92b-679c51e3a874" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="2" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="3" type="IS Ammo SRM-6 Narc-capable" shots="15"/>
+				<slot index="4" type="ISNarc Pods" shots="6"/>
+			</location>
+			<Game id="28"/>
+		</entity>
+
+		<entity chassis="Ripper Infantry Transport" model="(SPL)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="0646e10b-b9c8-4158-8c83-2e0150e8374c">
+			<pilot size="1" name="Svetlana Dashiev" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="1af3c5ac-69f3-4d4f-a6ab-0f46b7520f3a" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+			<Game id="29"/>
+		</entity>
+
+</unit>

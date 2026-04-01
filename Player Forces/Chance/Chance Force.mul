@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.06" >
+
+		<entity chassis="Heavy Foot LRM Infantry" model="Stalwart Support - Heavy LRM Infantry" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="1b29518a-a194-447d-8922-da9b9a807370" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="03b4278d-d1a0-44b1-921d-de8bd2c4b1b3" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="273"/>
+			<Game id="256"/>
+		</entity>
+
+		<entity chassis="Thumper Artillery Vehicle" model="" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="dc8cabdc-27a6-4ae2-a303-62630af14811">
+			<pilot size="4" name="Clark Fedele" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="821809be-9494-4067-87be-b812ceb5bde4" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="2" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="3" type="ISThumperAmmo" shots="20"/>
+				<slot index="4" type="ISThumperAmmo" shots="20"/>
+			</location>
+			<Game id="257"/>
+		</entity>
+
+		<entity chassis="Heavy Foot LRM Infantry" model="Stalwart Support - Heavy LRM Infantry" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="174cba2e-3d04-4dab-a1cd-9d6a62cb5b9f" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="c9ac9a39-8e29-4f93-a222-dafaed741d6c" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="282"/>
+			<Game id="260"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="56f8bad3-c064-4902-8594-9b3ad42e5b86" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="e96b9825-e87c-4390-ae77-ce51b19d85cb" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="329"/>
+			<Game id="263"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2d01c5e0-051f-4965-b7a2-2ef97246cc99" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="cf6b3abd-2ee5-433e-bde5-5332fc88015d" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="329"/>
+			<Game id="265"/>
+		</entity>
+
+		<entity chassis="Ostsol" model="OTL-5M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="094cbe58-3895-4354-bc01-29f7fb33f808">
+			<pilot size="1" name="Kiandria O'Keenan" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="5" externalId="1b5046f4-a020-4842-b3cd-3387f99e0689" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="10" type="ISAMS Ammo" shots="12"/>
+			</location>
+			<Game id="267"/>
+		</entity>
+
+		<entity chassis="Nightsky" model="NGS-5S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6bfa64ee-6e3a-4a4f-b1e8-2c8ca69af5c1">
+			<pilot size="1" name="Devesita Rajani" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="4" externalId="bd06a0c9-0238-4f83-835b-9ad4faeffd9a" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="268"/>
+		</entity>
+
+		<entity chassis="Puma (Adder)" model="S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0570977f-595d-48d5-b296-f3e2af77c941">
+			<pilot size="1" name="Tereza" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="1e4072bd-c856-476b-9c0f-a8d719595b7f" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="8" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="8" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="269"/>
+		</entity>
+
+		<entity chassis="Demolisher Heavy Tank" model="(Clan)" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e30d5c3a-d719-432f-bff5-eb6167f56fb0">
+			<pilot size="6" name="Arvi" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="6" externalId="ccfb9a6c-514f-4ed8-bedd-bbdcda0bcb76" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="2" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="3" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="4" type="Clan LB 20-X AC Ammo" shots="5"/>
+				<slot index="5" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="6" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="7" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="8" type="Clan LB 20-X Cluster Ammo" shots="5"/>
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="270"/>
+		</entity>
+
+		<entity chassis="Dasher (Fire Moth)" model="H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="de015e1d-e3e6-46be-bdb4-7f62a3575725">
+			<pilot size="1" name="Paul" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="6" externalId="863507ce-ec2d-4db5-be8a-4bd7da0bf4b9" ejected="false" autoeject="false"/>
+			<Game id="271"/>
+		</entity>
+
+		<entity chassis="Heavy Tracked APC" model="" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="01c32626-224a-4d64-a699-7783aba95813">
+			<pilot size="2" name="Nessan MacGannon" nick="" gender="MALE" clanperson="false" gunnery="5" piloting="6" externalId="48575ece-2f06-4c54-8f2f-a6232905d2f4" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<Game id="273"/>
+		</entity>
+
+		<entity chassis="Badger (C) Tracked Transport" model="B" type="Tracked" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="3d05bd20-7393-4900-b17d-b4bbd0cb7310">
+			<pilot size="2" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="5" piloting="6" externalId="441083bc-63be-4b5d-bc7a-e613fbe192d5" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="Clan Streak SRM 2 Ammo" shots="50"/>
+			</location>
+			<Game id="282"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="77eada68-1435-41e2-b55d-d4cfaa0ef8e8" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="1a676cd6-599e-4336-a865-9b9cb7a4b0b6" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="328"/>
+			<Game id="287"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="0e6660c4-2f17-4654-96f2-b4171ee391cf" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="400a6d81-4617-4c94-953c-5a11ffaed5ee" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="273"/>
+			<Game id="288"/>
+		</entity>
+
+		<entity chassis="Arctic Fox" model="AF1A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8adc0410-32af-4193-ba13-814123cb5c3e">
+			<pilot size="1" name="Czestobor Markianov" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="6" externalId="292eb76f-81d1-490b-8c38-e51bdfd2223e" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost" autoeject="true"/>
+			<Game id="290"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2869ff4f-49da-4042-95e1-bd9db1d4d13a" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="7d86f4a9-5ce4-4c77-b134-f00d5c7ff229" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="328"/>
+			<Game id="293"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="a99cdeb2-f34b-4c3a-b5ce-e1bb0abd99bf" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="cfee945f-06d0-406d-875c-d671a4361b76" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="282"/>
+			<Game id="294"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(Rifle 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e572b951-130b-496b-9ed0-ff50eaa60950" armorEncumbering="1">
+			<pilot size="1" name="Alain Roux" nick="" gender="MALE" clanperson="false" gunnery="4" piloting="8" externalId="be8b5685-5ceb-49d9-9de4-23bdb42650bb" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Game id="295"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="545dec44-5464-4043-9796-9e6180ad5c79" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="22d0a316-73f0-4d69-ade6-0d4bb2fe39ec" ejected="false" edge="edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion::edge_when_masc_fails::edge_when_aero_alt_loss::edge_when_aero_explosion::edge_when_aero_ko::edge_when_aero_lucky_crit::edge_when_aero_nuke_crit::edge_when_aero_unit_cargo_lost"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="330"/>
+			<Game id="296"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="ba9f47f0-788e-4050-b27d-b0f0af65d5a8">
+			<pilot size="2" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="2996b9ec-d978-4f24-8616-d185b257ee60" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="328"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="5e3c5164-a8dd-4ae7-8878-65209a0d592c">
+			<pilot size="2" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="b1562a71-fc0d-4377-9867-455490305a89" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="329"/>
+		</entity>
+
+		<entity chassis="Kestrel VTOL" model="(SRM)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="d019dbe0-29cf-4499-bf70-262a797d9ecd">
+			<pilot size="2" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="46205464-67f3-4458-ad82-1957c0b47c65" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<Game id="330"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="fe646b71-357a-4a32-b23f-3f3625eb7159" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="a0e75b5c-d9bf-4ea8-8f44-4edad97b6fee" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="333"/>
+			<Game id="332"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="f37e2d3c-1b4a-4ad4-891c-2b85741ceed1">
+			<pilot size="2" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="6" externalId="bf7c53fa-836b-4147-b846-520509145bae" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="333"/>
+		</entity>
+
+		<entity chassis="Foot Platoon (FWLM)" model="(SRM 3035+)" type="Leg" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f585acbb-85c1-4adc-ace1-e07863ab4de7" armorEncumbering="1">
+			<pilot size="1" name="Unnamed" nick="" gender="FEMALE" clanperson="false" gunnery="4" piloting="8" externalId="a8e638ba-62f1-4ce5-aaf4-6250c16ef547" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+			<Conveyance id="333"/>
+			<Game id="334"/>
+		</entity>
+
+</unit>
