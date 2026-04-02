@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/GrassLands/16x17 Grasslands Foothills 1</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Open Terrain 2</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Rolling Hills 1</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Rolling Hills 3</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Open Terrain 3</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Foothills 2</BOARDS>
+</MAPSETUP>

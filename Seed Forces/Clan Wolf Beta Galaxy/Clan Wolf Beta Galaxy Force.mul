@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Gladiator (Executioner)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4094916b-460a-4105-a83c-dee7b60bd4b7">
+			<pilot size="1" name="Peter" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="3f7cc706-c6ab-48aa-b2dc-439b18d14f6d" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="7" type="Clan Machine Gun Ammo - Full" shots="200"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Uller (Kit Fox)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="21f0e9cc-41aa-4d75-bfc7-cf64c97019fe">
+			<pilot size="1" name="Kimberly" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="2e61f451-d2fa-4955-9817-4f10b9fe7864" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="9" type="Clan Gauss Ammo" shots="8"/>
+				<slot index="10" type="Clan Gauss Ammo" shots="8"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Fenris (Ice Ferret)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="e5a1a551-3b2f-42f5-bcde-0dcf7e05e481">
+			<pilot size="1" name="Helen" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="325e35a6-68a3-424d-8017-2f3642bdeff9" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="7" type="CLAMS Ammo" shots="24"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan LB 2-X AC Ammo" shots="45"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Hankyu (Arctic Cheetah)" model="A" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="34eacf5e-4cbf-437c-bdfe-d5a8c335f5af">
+			<pilot size="1" name="Mahinaw" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="43325ae2-4104-4fd4-a4cd-037236cf3738" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="Clan Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="3" type="Clan Streak SRM 6 Ammo" shots="15"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Koshi (Mist Lynx)" model="Prime" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="88920622-4a83-439a-918d-d206f3c41b64">
+			<pilot size="1" name="Paul" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="6ff8bb2d-3b40-464c-83e2-3924149379b0" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+				<slot index="8" type="Clan Streak SRM 4 Ammo" shots="25"/>
+				<slot index="9" type="Clan Machine Gun Ammo - Half" shots="100"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="Clan Ammo LRM-10" shots="12"/>
+			</location>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="69c8433c-2e2b-4921-82d2-429535803327">
+			<pilot size="5" name="Thu-Hong" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="b05b342c-ac27-42c4-8c8b-5bcafcb565e6" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="1"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="cb61ff93-0a5f-425b-a72f-2d6513b92473">
+			<pilot size="5" name="Mark" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="84640b53-0ca3-4918-a3a7-65865dcd3fe6" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="2"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="092df1b1-9edc-4744-8ddf-3c80226449a2">
+			<pilot size="5" name="Tina" nick="" gender="FEMALE" clanperson="true" gunnery="4" piloting="5" externalId="9246e92e-4812-486e-9dd2-b0b755027ba2" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="3"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="2d4ed7ae-b4fa-4aa4-92b3-1541d37bf8c0">
+			<pilot size="5" name="Awwab" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="29239347-bf8a-4c51-b380-f425bb49f30e" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="4"/>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Elemental Battle Armor" model="[Laser](Sqd5)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="6179d8c1-adba-4333-bf39-6b90441a5185">
+			<pilot size="5" name="Ti-an" nick="" gender="MALE" clanperson="true" gunnery="4" piloting="5" externalId="cf0fc0aa-2b9b-40a7-a84e-4727fddcc2eb" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+      The first slot in a location is at index="1".
+			<location index="0"> Point
+				<slot index="3" type="BA-SRM2 Ammo" shots="2"/>
+			</location>
+			<Conveyance id="5"/>
+			<Game id="10"/>
+		</entity>
+
+</unit>

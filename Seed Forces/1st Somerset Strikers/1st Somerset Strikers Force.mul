@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.50.05" >
+
+		<entity chassis="Hatamoto-Chi" model="HTM-27T" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9f5fdafe-7cc8-49f1-a6c3-4d4615c4d905">
+			<pilot size="1" name="Franklin Sakamoto" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="0acc4783-7f9a-49b1-8d8d-2e575238f6b8" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<Game id="1"/>
+		</entity>
+
+		<entity chassis="Mauler" model="MAL-1R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="7be7fa36-9ae3-4437-9e85-6935068e4a1e">
+			<pilot size="1" name="Miles Hawkins" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="5" externalId="343ec480-cb26-4051-bc6c-cae893e51eae" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="11" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="9" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="10" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="11" type="IS Ammo AC/2" shots="45"/>
+			</location>
+			<Game id="2"/>
+		</entity>
+
+		<entity chassis="Axman" model="AXM-2N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="8f6dac58-1b9c-43b1-8cf6-87374e8109c7">
+			<pilot size="1" name="Adam Steiner" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="51383ca8-1ef3-4949-9ca6-b173bf1de512" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="7" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="8" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+			<Game id="3"/>
+		</entity>
+
+		<entity chassis="Bushwacker" model="BSW-X1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="58657f5d-87b1-4eaa-aa11-d7143cb7dc76">
+			<pilot size="1" name="VValten Ryder" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="5" externalId="57eac6c2-a53d-4ad2-a018-63ef2a1b3f9a" ejected="false" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="5" type="IS Machine Gun Ammo - Half" shots="100"/>
+				<slot index="6" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<Game id="4"/>
+		</entity>
+
+		<entity chassis="Wolfhound" model="WLF-2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="f3184368-654e-438e-a25e-b35594d02581">
+			<pilot size="1" name="Ciro Ramirez" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="f55ec754-e269-4c20-a23f-a8c984a41799" ejected="false" autoeject="true"/>
+			<Game id="5"/>
+		</entity>
+
+		<entity chassis="Infiltrator Mk. II Battle Armor" model="'Puma'(Sqd4)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="4f242a05-563a-405d-846c-c6c7d982e778">
+			<pilot size="4" name="Erica Farmakis" nick="" gender="FEMALE" clanperson="false" gunnery="2" piloting="4" externalId="a03bfd1c-8fde-4bdd-b8f5-1ec1e3fc6280" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+			<Conveyance id="9"/>
+			<Game id="6"/>
+		</entity>
+
+		<entity chassis="Infiltrator Mk. II Battle Armor" model="'Puma'(Sqd4)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="9f06d42a-d92e-47b8-b417-fb8d2d63b75e">
+			<pilot size="4" name="Alexandra Skjerven" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="f12de05c-2a47-4e52-8692-a112844971c0" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+			<Conveyance id="10"/>
+			<Game id="7"/>
+		</entity>
+
+		<entity chassis="Infiltrator Mk. II Battle Armor" model="'Puma'(Sqd4)" type="Jump" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" externalId="863ccb2b-c383-4f8d-889f-8d71cbee17a7">
+			<pilot size="4" name="Ronald Okada" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="57521e98-1025-4930-9d78-d2d882875645" ejected="false"/>
+			<antiPersonnelMount baAPMMountNum="4" baAPMTypeName="InfantryAssaultRifle" />
+			<Conveyance id="11"/>
+			<Game id="8"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="61266313-c114-4075-b9ac-2a8c5d1bae4c">
+			<pilot size="2" name="Halima Hakim" nick="" gender="FEMALE" clanperson="false" gunnery="3" piloting="4" externalId="8800300d-39c2-48bb-8d31-4d1e037e2c69" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="9"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="29ed26d9-839a-473d-8663-048b4e242238">
+			<pilot size="2" name="Greg Chang" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="d875e7ea-7803-457e-a621-774c17f4de1e" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="10"/>
+		</entity>
+
+		<entity chassis="Karnov UR Transport" model="(3055 Upgrade)" type="VTOL" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="2" deploymentZoneWidth="3" deploymentZoneOffset="0" deploymentZoneAnyNWx="-1" deploymentZoneAnyNWy="-1" deploymentZoneAnySEx="-1" deploymentZoneAnySEy="-1" neverDeployed="true" elevation="1" externalId="a0fef89b-c913-4738-81f3-a080738b2a4d">
+			<pilot size="2" name="Ernest Vogel" nick="" gender="MALE" clanperson="false" gunnery="3" piloting="4" externalId="98d40708-d145-41dd-851f-8a3aec7b3b5f" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<Game id="11"/>
+		</entity>
+
+</unit>
