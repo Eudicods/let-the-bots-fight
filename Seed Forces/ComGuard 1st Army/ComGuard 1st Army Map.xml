@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/Map Pack City/City Districts/16x17 Business District</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Observatory Hill</BOARDS>
+    <BOARDS>/Map Pack City/HPG Complex/16x17 HPG Offices</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Business District</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Observatory Hill</BOARDS>
+    <BOARDS>/Map Pack City/HPG Complex/16x17 Family Quarters</BOARDS>
+</MAPSETUP>
