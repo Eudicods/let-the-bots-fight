@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/Deserts/16x17 AeroBase 1</BOARDS>
+    <BOARDS>/Deserts/16x17 AeroBase 2</BOARDS>
+    <BOARDS>rotate:/Deserts/16x17 Desert Runway</BOARDS>
+    <BOARDS>/Deserts/16x17 Desert Runway</BOARDS>
+    <BOARDS>rotate:/Deserts/16x17 AeroBase 2</BOARDS>
+    <BOARDS>rotate:/Deserts/16x17 AeroBase 1</BOARDS>
+</MAPSETUP>

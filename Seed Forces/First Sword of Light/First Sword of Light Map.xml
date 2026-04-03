@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/Map Set 2/16x17 Scattered Woods</BOARDS>
+    <BOARDS>/Map Set 6/16x17 Woodland</BOARDS>
+    <BOARDS>rotate:/Map Set 2/16x17 Lake Area</BOARDS>
+    <BOARDS>/Map Set 2/16x17 Lake Area</BOARDS>
+    <BOARDS>rotate:/Map Set 6/16x17 Woodland</BOARDS>
+    <BOARDS>rotate:/Map Set 2/16x17 Scattered Woods</BOARDS>
+</MAPSETUP>
