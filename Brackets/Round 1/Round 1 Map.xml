@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/AGoAC Maps/16x17 Desert 3</BOARDS>
+    <BOARDS>/Beginner Box/16x17 Desert 1</BOARDS>
+    <BOARDS>/AGoAC Maps/16x17 Desert 2</BOARDS>
+    <BOARDS>rotate:/AGoAC Maps/16x17 Desert 2</BOARDS>
+    <BOARDS>rotate:/Beginner Box/16x17 Desert 1</BOARDS>
+    <BOARDS>rotate:/AGoAC Maps/16x17 Desert 3</BOARDS>
+</MAPSETUP>
