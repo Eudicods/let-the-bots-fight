@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>rotate:/WWE2018 Terrain Set/16x17 WWE2018 BattleTech</BOARDS>
+    <BOARDS>/WWE2018 Terrain Set/16x17 WWE2018 ScatteredWoods</BOARDS>
+    <BOARDS>/WWE2018 Terrain Set/16x17 WWE2018 DigSite</BOARDS>
+    <BOARDS>rotate:/WWE2018 Terrain Set/16x17 WWE2018 DigSite</BOARDS>
+    <BOARDS>rotate:/WWE2018 Terrain Set/16x17 WWE2018 ScatteredWoods</BOARDS>
+    <BOARDS>/WWE2018 Terrain Set/16x17 WWE2018 BattleTech</BOARDS>
+</MAPSETUP>
