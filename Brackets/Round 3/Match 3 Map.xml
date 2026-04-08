@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>/GrassLands/16x17 Grasslands River CommCenter</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Open Terrain 3</BOARDS>
+    <BOARDS>rotate:/GrassLands/16x17 Grasslands Streams</BOARDS>
+    <BOARDS>/GrassLands/16x17 Grasslands Streams</BOARDS>
+    <BOARDS>rotate:/GrassLands/16x17 Grasslands Open Terrain 3</BOARDS>
+    <BOARDS>rotate:/GrassLands/16x17 Grasslands River CommCenter</BOARDS>
+</MAPSETUP>
