@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MAPSETUP>
+    <BOARDWIDTH>16</BOARDWIDTH>
+    <BOARDHEIGHT>17</BOARDHEIGHT>
+    <MAPWIDTH>3</MAPWIDTH>
+    <MAPHEIGHT>2</MAPHEIGHT>
+    <BOARDS>rotate:/Map Pack City/City Districts/16x17 Shopping District</BOARDS>
+    <BOARDS>rotate:/Map Pack City/City Districts/16x17 Plaza</BOARDS>
+    <BOARDS>rotate:/Map Pack City/City Districts/16x17 Roundabout</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Roundabout</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Plaza</BOARDS>
+    <BOARDS>/Map Pack City/City Districts/16x17 Shopping District</BOARDS>
+</MAPSETUP>
